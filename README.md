@@ -1,1 +1,1 @@
-# Plant-Disease-Detection-System
+AI-Based Plant Disease Diagnosis System 
